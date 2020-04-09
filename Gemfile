@@ -36,7 +36,7 @@ end
 
 group :production do
   gem 'pg'
-  gem 'redis'
+  #gem 'redis'
 end
 
 group :development do
